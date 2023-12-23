@@ -1,0 +1,12 @@
+.imgNav{
+    margin-bottom: -5rem;
+    margin-top: -9rem;
+}
+/* .Bg{
+    background-color: aqua;
+} */
+
+.top{
+    position: sticky !important;
+    top: 0 !important;
+}

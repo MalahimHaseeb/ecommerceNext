@@ -1,0 +1,28 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+
+
+/* body{
+    overflow-x: hidden;
+} */
+.img{
+    width: 100vw;
+    height: 60vh;
+}
+
+
+@media screen and (max-width:1023px) {
+    .remove{
+        display: none;
+    }
+}
+
+
